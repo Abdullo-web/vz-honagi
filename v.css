@@ -2,3 +2,86 @@
     margin: 0px;
     font-family: sans-serif;
 }
+.glavni{
+    
+    width: 80%;
+    height: 3000px;
+    margin: auto;
+}
+.t1{
+    font-size: 32px;
+    font-weight: 600;
+}
+.t2{
+    font-size: 16px;
+    font-weight: 500;
+}
+.t3{
+    font-size: 16px;
+    font-weight: 500;
+}
+.div{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.div2{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+.div3{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+.div1{
+    padding-top: 6.5px;
+    
+}
+.kal{
+    display: flex;
+    width: 100%;
+    min-height: 845px;
+    
+}
+.sla1{
+    height: 845px;
+    width: 587px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+}
+.sla1 h1{
+    
+    font-size: 48px;
+    font-weight: 600;
+}
+.sla1 p{
+    padding-top: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: gray;
+}
+.sla1 h3{
+    margin-top: 30px;
+    width: 109px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+.s1{
+    display: flex;
+    gap: 24px;
+}
+.su1{
+    margin-top: 80px;
+}
+.su2{
+    margin-top: 161px;
+}
