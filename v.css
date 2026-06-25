@@ -5,7 +5,7 @@
 .glavni{
     
     width: 80%;
-    height: 3000px;
+    height: 5000px;
     margin: auto;
 }
 .t1{
@@ -255,4 +255,134 @@
     display: flex;
     gap: 32px;
     margin: auto;
+}
+
+
+
+
+.zx3{
+    
+    margin-left: 41px;
+    display: flex;
+    height: 596px;
+    
+}
+
+.sla13{
+    
+    height: 596px;
+    width: 587px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+}
+.sla13 h2{
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 12px;
+    color: gray;
+}
+.sla13 h1{
+    
+    font-size: 36px;
+    font-weight: 600;
+}
+.sla13 p{
+    padding-top: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(128, 128, 128, 0.644);
+}
+.f78{
+    margin-top: 60px;
+}
+.f7{
+    margin-top: 30px;
+    width: 109px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+.f8{
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 24px;
+}
+
+
+
+.de4{
+    margin-top: 80px;
+    border-radius: 5px;
+    width: 588px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0 0 10px grey;
+}
+.de412{
+    margin-top: 24px;
+    border-radius: 5px;
+    width: 588px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0 0 10px gray;
+}
+.de41{
+    margin-top: 24px;
+    border-radius: 5px;
+    width: 588px;
+    height: 168px;
+    background-color: white;
+    box-shadow: 0 0 10px gray;
+}
+.p0{
+    color: #424F7B;
+    font-size: 24px;
+    font-weight: 600;
+}
+.loko{
+    margin-left: 190px;
+    width: 40px;
+    height: 40px;
+    background-color: #FFECE2;
+    border-radius: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.loko2{
+    margin-left: 279px;
+    width: 40px;
+    height: 40px;
+    background-color: #FFECE2;
+    border-radius: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.loko1{
+    margin-left: 163px;
+    width: 40px;
+    height: 40px;
+    background-color: #e6590e;
+    border-radius: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.y3{
+    padding-left: 30px;
+    padding-top: 30px;
+    
+}
+.polo8{
+    line-height: 25px;
+    padding-top: 24px;
+    padding-left: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(128, 128, 128, 0.668);
 }
