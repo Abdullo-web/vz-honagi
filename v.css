@@ -132,3 +132,63 @@
     border-radius: 5px;
     
 }
+
+
+
+
+
+.fr6{
+   
+    height: 960px;
+}
+.f1{
+    
+    display: flex;
+  
+}
+.yu8 h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.yu8 p{
+    font-size: 18px;
+    font-weight: 400;
+    color: gray;
+    line-height: 28px;
+}
+.yu8{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 40px;
+    width: 584px;
+    
+}
+.c4{
+    padding-left: 249px;
+}
+
+
+
+.yu83 h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.yu83 p{
+    font-size: 18px;
+    font-weight: 400;
+    color: gray;
+    line-height: 28px;
+}
+.yu83{
+    padding-left: 260px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 40px;
+    width: 584px;
+  
+}
+.c43{
+   
+}
