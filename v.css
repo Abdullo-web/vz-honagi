@@ -415,3 +415,64 @@
     text-align: center;
     padding-top: 62px;
 }
+
+
+
+
+
+
+
+
+.oxir{
+    display: flex;
+    width: 100%;
+    height: 444px;
+    background-color: #0B265A;
+}
+.ox4{
+    padding-left: 120px;
+    padding-top: 120px;
+    height: 200px;
+    width: 200px;
+    
+}
+.oxir h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+}
+.oxir p{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    padding-top: 13px;
+    line-height: 25px;
+}
+.io4{
+    padding-top: 36px;
+    display: flex;
+    gap: 24px;
+}
+.rtx{
+    display: flex;
+    gap: 140px;
+    margin-left: 399px;
+   
+}
+.z7{
+    width: 107px;
+    height: 10px;
+    
+}
+.z7 h1{
+    padding-top: 120px;
+    font-weight: 700;
+    color: white;
+    font-size: 16px;
+}
+.z7 p{
+    padding-top: 21px;
+    font-weight: 400;
+    color: rgba(128, 128, 128, 0.63);
+    font-size: 16px;
+}
