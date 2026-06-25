@@ -85,3 +85,50 @@
 .su2{
     margin-top: 161px;
 }
+
+
+
+
+
+
+
+.q1{
+    
+    height: 736px;
+    display: flex;
+}
+.w1{
+    width: 470px;
+   
+    padding-top: 80px;
+    padding-left: 120px;
+}
+
+.sla11{
+    height: 845px;
+    width: 587px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+}
+.sla11 h1{
+    
+    font-size: 36px;
+    font-weight: 600;
+}
+.sla11 p{
+    padding-top: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: gray;
+}
+.sla11 h3{
+    margin-top: 30px;
+    width: 109px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
